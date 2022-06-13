@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b98a639a.chunk.css",
+    "main.js": "/static/js/main.c9092d8f.chunk.js",
+    "main.js.map": "/static/js/main.c9092d8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf7ec8b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf7ec8b2.js.map",
+    "static/js/2.7d9de106.chunk.js": "/static/js/2.7d9de106.chunk.js",
+    "static/js/2.7d9de106.chunk.js.map": "/static/js/2.7d9de106.chunk.js.map",
+    "static/js/3.3bd60671.chunk.js": "/static/js/3.3bd60671.chunk.js",
+    "static/js/3.3bd60671.chunk.js.map": "/static/js/3.3bd60671.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b98a639a.chunk.css.map": "/static/css/main.b98a639a.chunk.css.map",
+    "static/js/2.7d9de106.chunk.js.LICENSE.txt": "/static/js/2.7d9de106.chunk.js.LICENSE.txt",
+    "static/media/404.185ca751.png": "/static/media/404.185ca751.png",
+    "static/media/binance-wallet.358a42f2.png": "/static/media/binance-wallet.358a42f2.png",
+    "static/media/App.css": "/static/media/font.75395156.ttf",
+    "static/media/math-wallet.31b56cc5.svg": "/static/media/math-wallet.31b56cc5.svg",
+    "static/media/metamask.3d389f07.svg": "/static/media/metamask.3d389f07.svg",
+    "static/media/safepal-wallet.cf402e1e.svg": "/static/media/safepal-wallet.cf402e1e.svg",
+    "static/media/trust-wallet.123a2360.svg": "/static/media/trust-wallet.123a2360.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf7ec8b2.js",
+    "static/js/2.7d9de106.chunk.js",
+    "static/css/main.b98a639a.chunk.css",
+    "static/js/main.c9092d8f.chunk.js"
+  ]
+}
